@@ -4,4 +4,4 @@ Nuestras intuiciones comunicativas son aquellas en las que creemos que hay que p
 
 Descarga la bóveda completa de [Intuiciones Comunicativas](https://publish.obsidian.md/intuiciones-comunicativas/Intuiciones/INTUICIONES+COMUNICATIVAS) que encuentras en Obsidian Publish
 
-![[intuiciones-comunicativas.png]]
+![](00_ARCHIVOS/intuiciones-comunicativas.png)
