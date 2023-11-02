@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "9cb70725f0fb0baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9042bcc1566b528",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Formatos de fecha Date format.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9386f1c779349540",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed02f770bd1400c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1722df1aa65b61b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "30e9aec8d6b5c3fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file: fecha",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332
+  },
+  "right": {
+    "id": "5dbea718a9d87c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "acd32232a24def89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "284f2a385200ade2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Formatos de fecha Date format.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53941e512993b19e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Formatos de fecha Date format.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00f4e500d2f656eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "9e7b3d4762b60787",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Formatos de fecha Date format.md"
+              }
+            }
+          },
+          {
+            "id": "9c13df6e5b5fb0e7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296
+  },
+  "active": "e9042bcc1566b528",
+  "lastOpenFiles": [
+    "Proyectos/prensacomunitaria.org.md",
+    "Proyectos/ACCU.md",
+    "Proyectos/TRANSOC.md",
+    "Tech/CSS/Media CSS rules.md",
+    "Tech/Transferir emails entre servidores.md",
+    "Tech/Configuración puertos email - correo.md",
+    "Tech/SITEGROUND CLOUD.md",
+    "Tech/Acceder a webmail de Siteground.md",
+    "Fediwhat!!??.md",
+    "Captura de pantalla de 2022-05-20 11-56-53.png"
+  ]
+}

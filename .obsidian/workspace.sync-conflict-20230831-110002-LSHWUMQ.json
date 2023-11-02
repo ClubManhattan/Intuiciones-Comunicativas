@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "9cb70725f0fb0baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "37e19f8de4814895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86321246274cf0ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lista de correo patriciaserrano.com.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9386f1c779349540",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed02f770bd1400c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1722df1aa65b61b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30e9aec8d6b5c3fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "aliases",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "5dbea718a9d87c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "acd32232a24def89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "861acdc6106af734",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "00f4e500d2f656eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "284f2a385200ade2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lista de correo patriciaserrano.com.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53941e512993b19e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lista de correo patriciaserrano.com.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e7b3d4762b60787",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lista de correo patriciaserrano.com.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "active": "86321246274cf0ba",
+  "lastOpenFiles": [
+    "Síndrome de Watson.md",
+    "Proyectos/DesenreDatos.md",
+    "Lista de correo patriciaserrano.com.md",
+    "Proyectos/patriciaserrano.com.md",
+    "Proyectos/EBLIDA.md",
+    "Tech/CSS/Móvil obsidian.md",
+    "Proyectos/Kit Digital.md",
+    "Clases de piano.md",
+    "Fediwhat!!??.md",
+    "Confinados a compartir.md"
+  ]
+}

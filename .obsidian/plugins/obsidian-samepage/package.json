@@ -1,0 +1,36 @@
+{
+  "name": "obsidian-samepage",
+  "version": "2.1.3",
+  "description": "Official Obsidian client into the intra tool-for-thought protocol.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "postversion": "node scripts/postversion.js",
+    "start": "node scripts/start.js",
+    "pretest": "npx nearleyc src/utils/leafGrammar.ne --out src/utils/leafGrammar.ts",
+    "test": "node scripts/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samepage-network/obsidian-samepage.git"
+  },
+  "keywords": [
+    "Obsidian",
+    "SamePage"
+  ],
+  "author": {
+    "name": "SamePage",
+    "email": "support@samepage.network",
+    "url": "https://samepage.network"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samepage-network/obsidian-samepage/issues"
+  },
+  "homepage": "https://github.com/samepage-network/obsidian-samepage#readme",
+  "devDependencies": {
+    "obsidian": "^0.16.0"
+  },
+  "dependencies": {
+    "samepage": "^0.31.2"
+  }
+}

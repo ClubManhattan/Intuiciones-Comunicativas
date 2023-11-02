@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 18,
+  "accentColor": "#6b93ef",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "obsidian"
+  ],
+  "textFontFamily": "Inter",
+  "theme": "system"
+}

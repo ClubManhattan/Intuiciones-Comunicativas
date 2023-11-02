@@ -1,0 +1,11 @@
+{
+  "accentColor": "#6b93ef",
+  "enabledCssSnippets": [
+    "obsidian"
+  ],
+  "baseFontSize": 20,
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
+}

@@ -1,0 +1,47 @@
+
+> [!Intuiciones]
+> [[INTUICIONES COMUNICATIVAS]]
+> 
+> 1 - [[Autonomía Comunicativa]]
+> 3 - [[Ejes Socio-Políticos]]
+
+
+> [!resumen]
+> No hay forma de pensarnos cualquier accionar contemporáneo, más aún si tiene que ver con creación material y tecnológica, donde no nos veamos en la obligación de pensar las implicaciones medioambientales que tienen.
+> 
+> No es novedoso (y lo será cada vez menos) empezar a ver espacios y creaciones digitales que sitúan la raíz de sus acciones en defender, sostener e incluso decrecer cualquier gasto energético innecesario.
+> 
+> Aquí se cruzarán decisiones éticas, sociales y políticas con otras de índole estéticas o pragmáticas para lograr un accionar comunicativo digital sostenible.
+> 
+> Llamamos ACCIÓN MEDIOAMBIENTAL a la necesidad de pensarnos desde la [[Ecología]] y la [[Materialidad]].
+
+
+### CUESTIONES
+
+[[A mayor ejercicio comunicativo se reducirá tu huella ecológica o al revés]]
+
+[[Cómo se genera la energía que necesitan tus herramientas]]
+
+[[De dónde salen las materias primas necesarias para las máquinas que utilizas (computador, servidor,...)]]
+
+### MANIFIESTOS
+A continuación destacamos algunos manifiestos pero si quieres ver la lista completa haz clic en el enlace: #autonomia-medioambiental/manifiestos 
+
+
+### TEXTOS
+A continuación destacamos algunos textos pero si quieres ver la lista completa haz clic en el enlace: #accion-medioambiental/textos 
+- [[ChatGPT bebe medio litro de agua]]
+- 
+
+### LÓGICAS
+A continuación destacamos algunas lógicas pero si quieres ver la lista completa haz clic en el enlace: #accion-medioambiental/logicas
+ - [[Lo-Tech]]
+ - [[Materialidad]]
+
+### ORGANIZACIONES
+A continuación destacamos algunas organizaciones pero si quieres ver la lista completa haz clic en el enlace: #accion-medioambiental/organizaciones
+
+
+### HERRAMIENTAS
+A continuación destacamos algunas herramientas pero si quieres ver la lista completa haz clic en el enlace: #accion-medioambiental/herramientas
+- [[Greenhost]]

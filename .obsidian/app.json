@@ -1,0 +1,15 @@
+{
+  "attachmentFolderPath": "./",
+  "defaultViewMode": "source",
+  "legacyEditor": false,
+  "fileSortOrder": "byModifiedTime",
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "foldIndent": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "mobilePullAction": "switcher:open"
+}

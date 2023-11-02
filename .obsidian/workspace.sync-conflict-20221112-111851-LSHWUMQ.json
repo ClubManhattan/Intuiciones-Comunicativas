@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "9cb70725f0fb0baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e25ed58c29e7420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20d45371e4f0935a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/CSS/Media CSS rules.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9386f1c779349540",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed02f770bd1400c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1722df1aa65b61b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30e9aec8d6b5c3fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file: css",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5
+  },
+  "right": {
+    "id": "5dbea718a9d87c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "acd32232a24def89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c13df6e5b5fb0e7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "00f4e500d2f656eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "284f2a385200ade2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tech/CSS/Media CSS rules.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53941e512993b19e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tech/CSS/Media CSS rules.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e7b3d4762b60787",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tech/CSS/Media CSS rules.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "active": "20d45371e4f0935a",
+  "lastOpenFiles": [
+    "Fediwhat!!??.md",
+    "Tech/CSS/Media CSS rules.md",
+    "Tech/CSS/SOMBRA - DEGRADADOS CSS.md",
+    "Tech/CSS/Texto degradado.md",
+    "Tech/CSS/Untitled.md",
+    "Tech/CSS/Test foldersync.md",
+    "Tech/CSS/Untitled 1.md",
+    "logseq/bak/Diez ideas sobre el arte de la fiesta/Kurt Gödel.md",
+    "Cultura libre matemática el caso de Mersenne - Fermat - Gödel.md",
+    "Untitled.md"
+  ]
+}

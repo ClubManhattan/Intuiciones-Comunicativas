@@ -1,0 +1,121 @@
+{
+  "workspaces": {
+    "Notas personales": {
+      "main": {
+        "id": "9cb70725f0fb0baa",
+        "type": "split",
+        "children": [
+          {
+            "id": "2725c809ee812479",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9386f1c779349540",
+        "type": "split",
+        "children": [
+          {
+            "id": "7ed02f770bd1400c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d1722df1aa65b61b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "30e9aec8d6b5c3fa",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 333
+      },
+      "right": {
+        "id": "5dbea718a9d87c50",
+        "type": "split",
+        "children": [
+          {
+            "id": "acd32232a24def89",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "284f2a385200ade2",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "53941e512993b19e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "00f4e500d2f656eb",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "9e7b3d4762b60787",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "2725c809ee812479"
+    }
+  },
+  "active": "Notas personales"
+}

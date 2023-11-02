@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "Capturas",
+  "defaultViewMode": "source",
+  "legacyEditor": false,
+  "fileSortOrder": "byModifiedTime",
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "foldIndent": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
+}

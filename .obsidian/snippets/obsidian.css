@@ -1,0 +1,129 @@
+.cm-header-1, .markdown-preview-view h1, .HyperMD-header .cm-header-1, .cm-link h1 {
+	color:#FFF;
+	text-transform: uppercase;
+	font-weight: 900;
+	letter-spacing: 4px;
+}
+
+.cm-header-2, .markdown-preview-view h2, .HyperMD-header .cm-header-2, .cm-link h2 {
+	color:#999 !important;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 3px;
+}
+
+.cm-header-3, .markdown-preview-view h3, .HyperMD-header .cm-header-3, .cm-link h3, h3, .markdown-rendered h3, .publish-article-heading h3 {
+	color:#fd3362 !important;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 1px;
+	font-size: 20px !important;
+}
+
+
+
+.cm-link h3[hover] {
+	color:#fd3362 !important;
+}
+
+
+.cm-header-4, .markdown-preview-view h4, .HyperMD-header .cm-header-4, .cm-link h4 {
+	font-size: 18px !important;
+	color:#FFF;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+
+
+.cm-header-5, .markdown-preview-view h5, .HyperMD-header .cm-header-5, .cm-link h5 {
+	font-size: 15px !important;
+	color:#d9af18;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 3px;
+}
+
+.cm-header-6, .markdown-preview-view h6, .HyperMD-header .cm-header-6, .cm-link h6 {
+	font-size: 15px !important;
+	color:#999;
+	text-transform: uppercase;
+	font-weight: 700;
+	letter-spacing: 3px;
+}
+
+
+.ͼ2 .cm-content {
+	caret-color: white;
+}
+
+.inline-title {
+	font-size: 2.2rem;
+}
+
+.cm-strong {
+	/*color:#ad811e;*/
+	font-weight: 800;
+}
+
+.metadata-container {
+    border: 1px solid #333;
+    padding: 15px;
+    border-radius: 15px;
+    background: #262626;
+
+}
+
+.metadata-properties-title {
+	color:#ad811e;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.markdown-source-view.mod-cm6 .cm-gutters {
+	display: none;
+}
+
+.cm-s-obsidian span.cm-highlight {
+    background-color: #d9be3c;
+    color: #010101;
+    padding: 0px 5px;
+    font-style: normal;
+    border-radius: 3px;
+}
+
+.callout[data-callout="intuiciones"] {
+    --callout-color: var(--callout-question);
+    --callout-icon: lucide-zap;
+}
+
+.callout[data-callout="intuiciones"] .callout-content a {
+    color: #ebb97c;
+}
+
+.markdown-source-view.mod-cm6 .cm-link .cm-underline {
+	text-decoration-line: underline;
+}
+
+/*
+#ADDCF9 azul clarito
+#4ce900 verde
+#ff00bc rosa
+*/
+/*TAGS*/.graph-view.color-fill-tag {color: #ff00bc;}
+/*NOTAS*/.graph-view.color-fill {color: #ADDCF9;}
+/*LINEA*/.graph-view.color-line {color: #555;}
+
+/*
+.graph-view.color-fill {background-color: red !important;}
+.graph-view.color-fill-tag {color: red !important;}
+.graph-view.color-fill-attachment {color: green !important;}
+.graph-view.color-arrow {color: green !important;}
+.graph-view.color-circle .icon {fill: #006699 !important;}
+.graph-view.color-line {color: red !important;}
+.graph-view.color-background {color: red !important;}
+.graph-view.color-text 
+.graph-view.color-fill-highlight {color: red !important;}
+.graph-view.color-line-highlight {color: red !important;}
+.graph-view.color-fill-unresolved {color: red !important;}
+*/

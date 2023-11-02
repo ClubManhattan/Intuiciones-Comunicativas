@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "b8fe6c18f9d98799",
+    "type": "split",
+    "children": [
+      {
+        "id": "4081c9f92ee800ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdf0a6d139df701b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "44c1f181d64d7bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AUTONOMÍA COMUNICATIVA/Manifiestos-Textos AC/Navegar mejor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07cafb7caad24b1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c013b1d1d3852dc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a50dead5f1a0039d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "0c9b3c120df2b6e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "resona",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "298d32d3f6d2989d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "865a81a89fdc5e5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0e020f6a6fbf8cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c693a553a8ecca04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AUTONOMÍA COMUNICATIVA/Manifiestos-Textos AC/Navegar mejor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cfb98313a36393e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AUTONOMÍA COMUNICATIVA/Manifiestos-Textos AC/Navegar mejor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24b56e984f8e6577",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8610c6c39f22265e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AUTONOMÍA COMUNICATIVA/Manifiestos-Textos AC/Navegar mejor.md"
+              }
+            }
+          },
+          {
+            "id": "790a6d5cb04add9e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4eca59afbfe38964",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          },
+          {
+            "id": "3977d8452fe9148f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c002607f83543b18",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 442.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "publish:Publicar cambios": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "templates:Insertar plantilla": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "8610c6c39f22265e",
+  "lastOpenFiles": [
+    "00_ARCHIVOS/navegar-mejor.jpeg",
+    "AUTONOMÍA COMUNICATIVA/Lógicas AC/Tecnodiversidad.md",
+    "INTUICIONES COMUNICATIVAS.md",
+    "SOBRE INTUICIONES COMUNICATIVAS.md",
+    "Autonomía Comunicativa.md",
+    "Acción Medioambiental.md",
+    "Ejes Socio-Políticos.md",
+    "EJES SOCIOPOLÍTICOS/Lógicas ES/Diversidad.md",
+    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Qué tiempo tienes para cuidar tu web que no salga de tu \"tiempo libre\".md",
+    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Puedes hacerlo por tu cuenta, pero mejor si estás en compañía..md",
+    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Cómo tienes en cuenta la diversidad auditiva, visual,....md",
+    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Cómo navega tu público vs cómo quieres que navegue tu público - Elevator pitch vs bazar marroquí.md",
+    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Cómo de claro tienes para qué te va a servir tu espacio digital.md",
+    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Cuánto de lo que sabes de tecnología viene del Norte y cuánto del Sur.md",
+    "AUTONOMÍA COMUNICATIVA/Organizaciones AC/colectivodisonancia.net.md",
+    "AUTONOMÍA COMUNICATIVA/Manifiestos-Textos AC/Navegar mejor.md",
+    "AUTONOMÍA COMUNICATIVA/Manifiestos-Textos AC/Anarchist Hackers - Noisebridge.md",
+    "AUTONOMÍA COMUNICATIVA/Lógicas AC/Software privativo.md",
+    "AUTONOMÍA COMUNICATIVA/Lógicas AC/Seguridad Digital.md",
+    "AUTONOMÍA COMUNICATIVA/Lógicas AC/Jardín Digital.md",
+    "AUTONOMÍA COMUNICATIVA/Herramientas AC/commonplace.knowledgefutures.org.md",
+    "AUTONOMÍA COMUNICATIVA/Herramientas AC/resonate.coop.md",
+    "AUTONOMÍA COMUNICATIVA/Herramientas AC/anartist.org.md",
+    "AUTONOMÍA COMUNICATIVA/Herramientas AC/OpenDesk.md",
+    "AUTONOMÍA COMUNICATIVA/Herramientas AC/Foros.md",
+    "AUTONOMÍA COMUNICATIVA/Herramientas AC/Cyber Detective's OSINT tools collection.md",
+    "AUTONOMÍA COMUNICATIVA/Cuestiones AC/Screenshot 2023-10-23 at 10-10-38 Not working on Siteground servers.png",
+    "ACCIÓN MEDIOAMBIENTAL/Herramientas AM/techcartographies_Sept_2023_EN.pdf",
+    "00_ARCHIVOS/intuiciones-comunicativas.png",
+    "ACCIÓN MEDIOAMBIENTAL/Herramientas AM",
+    "00_ARCHIVOS/CM_M1_ColoNegativo.svg",
+    "00_ARCHIVOS",
+    "¿Lo vas a hacer sólo/a",
+    "¿Lo vas a hacer sólo",
+    "docs/EJES SOCIOPOLÍTICOS/Manifiestos-Textos",
+    "docs/EJES SOCIOPOLÍTICOS/Lógicas",
+    "docs/EJES SOCIOPOLÍTICOS/Herramientas",
+    "docs/ACCIÓN MEDIOAMBIENTAL/Manifiestos-Textos",
+    "docs/ACCIÓN MEDIOAMBIENTAL/Organizaciones",
+    "2021-11-22-22-49-26.png",
+    "Plantillas/files/updatable/routeicon-fr-paris-RATPBusMontmartrobus-24@2x.png",
+    "Plantillas/files/updatable/scenario-button-coming-soon-private@3x.png",
+    "Plantillas/files/updatable/routeicon-fr-paris-RATPBusTuvim-24@2x.png",
+    "Plantillas/files/updatable/scenario-button-coming-soon-active@3x.png",
+    "Plantillas/files/updatable/routeicon-fr-paris-RATPMetro15-24@2x.png",
+    "Plantillas/files/updatable/routeicon-fr-paris-RATPOrlyval-24@2x.png",
+    "Canvas/Jardines Digitales - Concepto, principios y estructura.canvas",
+    "Canvas/Sin título.canvas",
+    "Sin título.canvas",
+    "Canvas/Primera prueba Canvas.canvas"
+  ]
+}
