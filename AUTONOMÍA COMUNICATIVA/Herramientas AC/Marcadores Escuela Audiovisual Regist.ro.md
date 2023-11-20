@@ -1,8 +1,11 @@
+---
+aliases: Escola AO, Regist.ro
+--- 
+
 > [!mapa intuicional]
-> **Forma parte de:** #autonomia-comunicativa/herramientas 
-> 
-> **Intuiciones relacionadas:**
-> [[Autonomía Comunicativa]], [[IMVEC.TECH]], [[Regist.ro]]
+> **Forma parte de:** #autonomia-comunicativa/herramientas  
+> **Intuiciones relacionadas:** [[Autonomía Comunicativa]], [[IMVEC.TECH]], [[Regist.ro]]
+
 
 **Web:** https://regist.ro/?avfloss
 
@@ -10,4 +13,4 @@ De la forma más sencilla posible podemos llevarnos a nuestros marcadores un set
 
 Aquí una imagen ejemplo de lo que podrás encontrar
 
-![[Captura de pantalla de 2023-11-02 10-09-19.png]]
+![[escola-ao.png]]

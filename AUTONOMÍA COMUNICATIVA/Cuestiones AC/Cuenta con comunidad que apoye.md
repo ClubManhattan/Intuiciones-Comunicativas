@@ -7,4 +7,4 @@ Pregunta sobre problema con Siteground para el plugin [ActivityPub](ActivityPub.
 https://wordpress.org/support/topic/not-working-on-siteground-servers/#post-17143003
 
 ==(Para ver la imagen en grande > Colocarse sobre la imagen > Botón derecho > Abrir imagen en una pestaña nueva)==
-![](Screenshot%202023-10-23%20at%2010-10-38%20Not%20working%20on%20Siteground%20servers.png)
+![](conversacion-activitypub.png)

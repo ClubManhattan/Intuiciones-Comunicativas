@@ -18,8 +18,8 @@
 - [[Cómo tienes en cuenta la diversidad auditiva, visual,...]]
 - [[Cuánto de lo que sabes de tecnología viene del Norte y cuánto del Sur]]
 - [[De dónde vienen las corrientes de diseño]]
-- [[Puedes hacerlo por tu cuenta, pero mejor si estás en compañía.]]
-- [[Qué tiempo tienes para cuidar tu web que no salga de tu "tiempo libre"]]
+- [[Puedes hacerlo por tu cuenta, pero mejor si estás en compañía]]
+- [[Qué tiempo tienes para cuidar tu web que no salga de tu tiempo libre]]
 
 
 ### MANIFIESTOS

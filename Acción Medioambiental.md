@@ -41,7 +41,6 @@ A continuación destacamos algunas lógicas pero si quieres ver la lista complet
 ### ORGANIZACIONES
 A continuación destacamos algunas organizaciones pero si quieres ver la lista completa haz clic en el enlace: #accion-medioambiental/organizaciones
 
-
 ### HERRAMIENTAS
 A continuación destacamos algunas herramientas pero si quieres ver la lista completa haz clic en el enlace: #accion-medioambiental/herramientas
 - [[Greenhost]]

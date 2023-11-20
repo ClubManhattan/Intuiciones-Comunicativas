@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cdf0a6d139df701b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "44c1f181d64d7bdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUTONOMÍA COMUNICATIVA/Manifiestos-Textos AC/Navegar mejor.md",
+                "file": "AUTONOMÍA COMUNICATIVA/Herramientas AC/Gestión personal del conocimiento - PKM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUTONOMÍA COMUNICATIVA/Manifiestos-Textos AC/Navegar mejor.md",
+                "file": "AUTONOMÍA COMUNICATIVA/Herramientas AC/Gestión personal del conocimiento - PKM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUTONOMÍA COMUNICATIVA/Manifiestos-Textos AC/Navegar mejor.md",
+                "file": "AUTONOMÍA COMUNICATIVA/Herramientas AC/Gestión personal del conocimiento - PKM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUTONOMÍA COMUNICATIVA/Manifiestos-Textos AC/Navegar mejor.md"
+                "file": "AUTONOMÍA COMUNICATIVA/Herramientas AC/Gestión personal del conocimiento - PKM.md"
               }
             }
           },
@@ -198,34 +189,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8610c6c39f22265e",
+  "active": "44c1f181d64d7bdf",
   "lastOpenFiles": [
+    "00_ARCHIVOS/low-tech-magazine-100.png",
+    "00_ARCHIVOS/low-tech-magazine-70.png",
+    "AUTONOMÍA COMUNICATIVA/Herramientas AC/Gestión personal del conocimiento - PKM.md",
+    "AUTONOMÍA COMUNICATIVA/Herramientas AC/wiki.c2.com.md",
+    "AUTONOMÍA COMUNICATIVA/Lógicas AC/Zettelkasten.md",
+    "AUTONOMÍA COMUNICATIVA/Herramientas AC/Sin título.md",
+    "EJES SOCIOPOLÍTICOS/Herramientas ES/Moneda Libre.md",
+    "ACCIÓN MEDIOAMBIENTAL/Organizaciones AM/Moneda Libre.md",
+    "ACCIÓN MEDIOAMBIENTAL/Organizaciones AM/Sin título.md",
+    "00_ARCHIVOS/Captura de pantalla de 2023-11-10 18-39-01.png",
+    "ACCIÓN MEDIOAMBIENTAL/Organizaciones AM/Captura de pantalla de 2023-11-10 18-39-01.png",
+    "INTUICIONES COMUNICATIVAS.md",
+    "EJES SOCIOPOLÍTICOS/Organizaciones ES/CyberHippieTotalism.md",
+    "Solarpunk.md",
+    "ACCIÓN MEDIOAMBIENTAL/Herramientas AM/Dear Alice.md",
+    "README.md",
+    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Badge.md",
+    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Retroalimentación de criterio formador.md",
+    "Autonomía Comunicativa.md",
+    "AUTONOMÍA COMUNICATIVA/Cuestiones AC/Saber quién guarda mi información.md",
+    "AUTONOMÍA COMUNICATIVA/Cuestiones AC/Dónde se guardan mis datos.md",
+    "ACCIÓN MEDIOAMBIENTAL/Organizaciones AM/Low-tech Magazine.md",
+    "00_ARCHIVOS/Captura de pantalla de 2023-11-10 15-28-31.png",
     "00_ARCHIVOS/navegar-mejor.jpeg",
     "AUTONOMÍA COMUNICATIVA/Lógicas AC/Tecnodiversidad.md",
-    "INTUICIONES COMUNICATIVAS.md",
     "SOBRE INTUICIONES COMUNICATIVAS.md",
-    "Autonomía Comunicativa.md",
     "Acción Medioambiental.md",
     "Ejes Socio-Políticos.md",
     "EJES SOCIOPOLÍTICOS/Lógicas ES/Diversidad.md",
     "EJES SOCIOPOLÍTICOS/Cuestiones ES/Qué tiempo tienes para cuidar tu web que no salga de tu \"tiempo libre\".md",
     "EJES SOCIOPOLÍTICOS/Cuestiones ES/Puedes hacerlo por tu cuenta, pero mejor si estás en compañía..md",
-    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Cómo tienes en cuenta la diversidad auditiva, visual,....md",
-    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Cómo navega tu público vs cómo quieres que navegue tu público - Elevator pitch vs bazar marroquí.md",
-    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Cómo de claro tienes para qué te va a servir tu espacio digital.md",
-    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Cuánto de lo que sabes de tecnología viene del Norte y cuánto del Sur.md",
-    "AUTONOMÍA COMUNICATIVA/Organizaciones AC/colectivodisonancia.net.md",
-    "AUTONOMÍA COMUNICATIVA/Manifiestos-Textos AC/Navegar mejor.md",
-    "AUTONOMÍA COMUNICATIVA/Manifiestos-Textos AC/Anarchist Hackers - Noisebridge.md",
-    "AUTONOMÍA COMUNICATIVA/Lógicas AC/Software privativo.md",
-    "AUTONOMÍA COMUNICATIVA/Lógicas AC/Seguridad Digital.md",
-    "AUTONOMÍA COMUNICATIVA/Lógicas AC/Jardín Digital.md",
-    "AUTONOMÍA COMUNICATIVA/Herramientas AC/commonplace.knowledgefutures.org.md",
-    "AUTONOMÍA COMUNICATIVA/Herramientas AC/resonate.coop.md",
-    "AUTONOMÍA COMUNICATIVA/Herramientas AC/anartist.org.md",
-    "AUTONOMÍA COMUNICATIVA/Herramientas AC/OpenDesk.md",
-    "AUTONOMÍA COMUNICATIVA/Herramientas AC/Foros.md",
-    "AUTONOMÍA COMUNICATIVA/Herramientas AC/Cyber Detective's OSINT tools collection.md",
     "AUTONOMÍA COMUNICATIVA/Cuestiones AC/Screenshot 2023-10-23 at 10-10-38 Not working on Siteground servers.png",
     "ACCIÓN MEDIOAMBIENTAL/Herramientas AM/techcartographies_Sept_2023_EN.pdf",
     "00_ARCHIVOS/intuiciones-comunicativas.png",
@@ -241,11 +237,6 @@
     "docs/ACCIÓN MEDIOAMBIENTAL/Organizaciones",
     "2021-11-22-22-49-26.png",
     "Plantillas/files/updatable/routeicon-fr-paris-RATPBusMontmartrobus-24@2x.png",
-    "Plantillas/files/updatable/scenario-button-coming-soon-private@3x.png",
-    "Plantillas/files/updatable/routeicon-fr-paris-RATPBusTuvim-24@2x.png",
-    "Plantillas/files/updatable/scenario-button-coming-soon-active@3x.png",
-    "Plantillas/files/updatable/routeicon-fr-paris-RATPMetro15-24@2x.png",
-    "Plantillas/files/updatable/routeicon-fr-paris-RATPOrlyval-24@2x.png",
     "Canvas/Jardines Digitales - Concepto, principios y estructura.canvas",
     "Canvas/Sin título.canvas",
     "Sin título.canvas",

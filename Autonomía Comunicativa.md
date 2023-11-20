@@ -28,6 +28,10 @@ Queremos plantear un hilo de cuestiones que nos permitan acompañarte en el proc
 > 
 > Con todo ello vamos a poder trabajar para lograr [poder tener voz](Cómo%20podemos%20lograr%20tener%20voz.md) y saber si [Lo que publicas puede ser compartido, copiado y modificado](Lo%20que%20publicas%20puede%20ser%20compartido,%20copiado%20y%20modificado.md).
 
+> [!Cuestión]- Sobre la posibilidad de crear mi propio espacio formativo con mi sistema personal de titulación y reconocimiento de aprendizajes
+> Toca ver aquí el tema de la [[Retroalimentación de criterio formador]] en base a Badges como por ejemplo [[Badgr]]
+
+
 ### MANIFIESTOS
 A continuación destacamos algunos manifiestos pero si quieres ver la lista completa haz clic en el enlace: #autonomia-comunicativa/manifiestos 
 

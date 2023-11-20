@@ -4,19 +4,48 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"ACCIÓN MEDIOAMBIENTAL\" medioambiental ",
+      "color": {
+        "a": 1,
+        "rgb": 8047402
+      }
+    },
+    {
+      "query": "path:\"EJES SOCIOPOLÍTICOS\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "file:Intuiciones",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"AUTONOMÍA COMUNICATIVA\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15679007
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
+  "textFadeMultiplier": 0.5,
   "nodeSizeMultiplier": 1.00598958333333,
-  "lineSizeMultiplier": 1.64401041666667,
+  "lineSizeMultiplier": 0.3296875,
   "collapse-forces": false,
-  "centerStrength": 0.778645833333333,
-  "repelStrength": 13.59375,
-  "linkStrength": 0.518229166666667,
-  "linkDistance": 134,
-  "scale": 0.4293386198869964,
-  "close": true
+  "centerStrength": 0.765625,
+  "repelStrength": 14.375,
+  "linkStrength": 1,
+  "linkDistance": 89,
+  "scale": 0.2477907667399895,
+  "close": false
 }
