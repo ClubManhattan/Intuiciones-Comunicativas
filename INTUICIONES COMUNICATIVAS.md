@@ -59,11 +59,15 @@ Todo está hecho con mera pasión por compartir conocimiento, no establecer vía
 
 ***
 
-El código fuente está completo en [https://github.com/ClubManhattan/intuiciones](https://github.com/ClubManhattan/intuiciones)
+Puedes descargar la bóveda completa en https://github.com/ClubManhattan/Intuiciones-Comunicativas.
 
-El código está licenciado con [Licencia Creative Commons Zero v1.0 Universal](https://github.com/ClubManhattan/intuiciones/blob/main/LICENSE).
+El contenido está licenciado con [[Licencia de Producción de Pares]] en todo aquel contenido que es de nuestro puño y bit. Para el resto se aconseja revisar las condiciones de licencia de cada contenido.
 
-El contenido está licenciado con [[Licencia de Producción de Pares]].
+Igualmente nos acogemos a las excepciones de la ley de derechos de autor bajo los términos de uso del material [en beneficio de actividades educativas y sin fines de lucro](https://www.wipo.int/copyright/es/limitations/).
+
+---
+
+Tal vez te preguntes [[Por qué usamos Obsidian]]
 
 ***
 
