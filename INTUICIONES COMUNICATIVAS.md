@@ -13,7 +13,7 @@ Si estás queriendo crear tu propio espacio digital y quieres poder hacerlo con 
 
 Puedes empezar a navegar desde aquí deambulando entre las temáticas, archivos y elementos que proponemos. La estructura no lineal representa muy bien cómo son estos procesos, parte de un todo que es difícil jerarquizar.
 
-Ya sea de forma inductiva (leyendo las notas, textos, artículos,...) para llegar de lo específico a plantear tus ideas generales; o deductivo, analizando los principios y conceptos generales para crearte tu propio corpus de teoría-acción, creemos que **Intuiciones comunicativas** puede ser de utilidad para todas aquellas personas hastiadas del badulaque ruidoso en el que se ha convertido Internet pero cree y quiere poder darle una nueva mirada. Sobre todo para aquellas personas con ganas de construirse un [Jardín Digital](Jardín%20Digital.md).
+Ya sea de forma inductiva (leyendo las notas, textos, artículos,...) para llegar de lo específico a plantear tus ideas generales; o deductivo, analizando los principios y conceptos generales para crearte tu propio corpus de teoría-acción, creemos que **Intuiciones comunicativas** puede ser de utilidad para todas aquellas personas hastiadas del badulaque ruidoso en el que se ha convertido Internet pero cree y quiere poder darle una nueva mirada. Sobre todo para aquellas personas con ganas de construirse un [Jardin Digital](Jardin%20Digital.md).
 
 ***
 

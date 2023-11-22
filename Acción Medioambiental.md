@@ -22,7 +22,7 @@
 
 [[Cómo se genera la energía que necesitan tus herramientas]]
 
-[[De dónde salen las materias primas necesarias para las máquinas que utilizas (computador, servidor,...)]]
+[De dónde salen las materias primas necesarias para las máquinas que utilizas (computador - servidor...)](Materialidad%20de%20nuestros%20equipos.md)
 
 ### MANIFIESTOS
 A continuación destacamos algunos manifiestos pero si quieres ver la lista completa haz clic en el enlace: #autonomia-medioambiental/manifiestos 

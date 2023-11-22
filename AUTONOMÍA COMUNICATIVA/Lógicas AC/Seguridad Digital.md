@@ -1,4 +1,11 @@
-**Forma parte de:** #autonomia-comunicativa/logicas 
+---
+aliases: 
+--- 
+> [!mapa intuicional]
+> **Forma parte de:** #autonomia-comunicativa/logicas 
+> **Intuiciones relacionadas:** [Autonomía Comunicativa](Autonomía%20Comunicativa.md)
+> **Etiquetas:** #seguridad/digital 
+> **URL:** 
 
 Ver herramientas de OSINT en:
 [[Cyber Detective's OSINT tools collection]]
@@ -6,10 +13,6 @@ Ver herramientas de OSINT en:
 
 En LATAM y Caribe organizaciones como:
 - [[Cosic]]
-
-
-> [!abstract]
-> 
 
 
 

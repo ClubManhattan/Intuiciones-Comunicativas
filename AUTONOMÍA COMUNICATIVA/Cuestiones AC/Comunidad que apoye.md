@@ -1,3 +1,13 @@
+---
+aliases: La importancia de la comunidad, Cuenta con comunidad que apoye
+--- 
+> [!mapa intuicional]
+> **Forma parte de:** #
+> **Intuiciones relacionadas:** 
+> **Etiquetas:** #
+> **URL:** 
+
+
 Que exista una comunidad que apoye significa que puedes encontrar ayuda para resolver problemas sobre el uso, configuración, bugs (errores), y sobre todo y más importante, en espacios de habla de tú a tú como son los [[Foros]].
 
 

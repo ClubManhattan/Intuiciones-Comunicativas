@@ -1,6 +1,12 @@
+---
+aliases: Anartist
+--- 
 > [!mapa intuicional]
 > **Forma parte de:** #
-> **Intuiciones relacionadas:** [[
+> **Intuiciones relacionadas:** 
+> **Etiquetas:** #
+> **URL:** 
+
 
 
 #autonomia-comunicativa/herramientas 

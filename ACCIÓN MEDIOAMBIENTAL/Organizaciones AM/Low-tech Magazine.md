@@ -1,6 +1,6 @@
 > [!mapa intuicional]
 > **Forma parte de:** #accion-medioambiental/organizaciones 
-> **Intuiciones relacionadas:** 
+> **Intuiciones relacionadas:** [[Low-tech]]
 > **Etiquetas:** #low-tech
 > **URL:** https://solar.lowtechmagazine.com/
 

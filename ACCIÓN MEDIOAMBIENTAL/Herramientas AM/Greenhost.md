@@ -1,3 +1,7 @@
+---
+aliases: 
+--- 
+
 > [!mapa intuicional]
 > **Forma parte de:**
 > #accion-medioambiental/herramientas
