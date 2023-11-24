@@ -44,12 +44,12 @@ No tenemos muchas certezas, pero tenemos **Intuiciones**
 
 ---
 
-### 3 campos / aristas / vectores
+### 3 campos / aristas / vectores / CONCEPTOS / MOTIVACIONES
 
 ---
 
 ### **HACEMOS**
-desde la ***Autonomía Comunicativa***
+desde la ***Autonomía***
 
 ---
 
@@ -58,16 +58,16 @@ Un **HACER** en el sentido más amplio de participar en los asuntos que nos afec
 ---
 
 ### **SENTIMOS**
-una necesaria ***Acción Medioambiental***
+desde la ***Materialidad***
 
 ---
 
-Un **SENTIR** como elemento clave para expresar nuestra relación con la realidad que habitamos
+Un **SENTIR** como elemento clave para relacionarnos con la realidad que habitamos
 
 ---
 
 ### **PENSAMOS**
-desde unos ***Ejes Socio-Políticos***
+desde la ***Diversidad***
 
 ---
 
@@ -115,10 +115,6 @@ Y ahora con **dibujitos**
 
 ---
 
-Ampliación de la red distribuida > Cada nexo es una conversación que une dos puntos/intereses/dudas/herramientas/lógicas...
-
----
-
 ![](Pasted%20image%2020231120232936.png)
 
 ---
@@ -153,10 +149,22 @@ El límite es **NUESTRA PIEL**
 
 ---
 
-![](Diagrama%20Voronoi%20Intuiciones.png)
-https://www.geogebra.org/m/VE77tYTS
+
+![](Captura%20de%20pantalla%20de%202023-11-22%2013-40-17.png)
 
 ---
+
+![](Captura%20de%20pantalla%20de%202023-11-22%2013-43-32.png)
+
+
+---
+
+
+![](Captura%20de%20pantalla%20de%202023-11-22%2013-43-41.png)
+
+
+---
+
 
 **"La arquitectura debe ser un puente entre el ser humano y la naturaleza, creando espacios que nos conecten con nuestra esencia más profunda."**
 

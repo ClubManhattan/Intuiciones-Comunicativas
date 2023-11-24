@@ -29,33 +29,24 @@ Por ello, queremos ser incisivos en nuestro leit motiv: crear una **guía de pur
 
 Todo está hecho con mera pasión por compartir conocimiento, no establecer vías unívocas de pensamiento o acción.
 
-### [Autonomía Comunicativa](Autonomía%20Comunicativa.md)
-
-> [!resumen]
-> Necesitamos poder construir nuestra propia comunicación, con nuestros medios, para nuestros fines. El pleno ejercicio de una comunicación libre, colaborativa y abierta es un derecho fundamental que debemos ejercer para ponerlo al servicio de las libertades individuales y colectivas.
-> 
-> La autonomía comunicativa sólo es posible cuando conocemos las estructuras que nos impiden ejercer este derecho y además conocemos las herramientas conceptuales, filosóficas, éticas, activistas y prácticas que nos ayudarán en su desarrollo pleno.
-> 
-> Llamamos AUTONOMÍA COMUNICATIVA a la necesidad de pensarnos desde la [[Construcción del mensaje]], el [[Software libre]], la [[Cultura Libre]], el [[Archivo]], la [[Indieweb]], el [[Fediverso]] y los [[Formatos abiertos]] entre otros.
+### [Autonomía](Autonomía.md)
+ ![](Autonomía.md#^11cebf)
+[Indagar sobre Autonomía](Autonomía.md)
 
 ***
-### [Acción Medioambiental](Acción%20Medioambiental.md)
+### [Materialidad](Intuiciones/Materialidad.md)
 
-> [!resumen]
-> No hay forma de pensarnos cualquier accionar contemporáneo, más aún si tiene que ver con creación material y tecnológica, donde no nos veamos en la obligación de pensar las implicaciones medioambientales que tienen. 
-> No es novedoso (y lo será cada vez menos) empezar a ver espacios y creaciones digitales que sitúan la raíz de sus acciones en defender, sostener e incluso decrecer cualquier gasto energético innecesario.
-> Aquí se cruzarán decisiones éticas, sociales y políticas con otras de índole estéticas o pragmáticas para lograr un accionar comunicativo digital sostenible.
-> 
-> Llamamos ACCIÓN MEDIOAMBIENTAL a la necesidad de pensarnos desde la [[Ecología]] y la [[Materialidad]].
+![](Intuiciones/Materialidad.md#^68eb08)
+
+[Indagar sobre Materialidad](Intuiciones/Materialidad.md)
 
 ***
 
-### [Ejes Socio-políticos](Ejes%20Socio-Políticos.md)
+### [DIVERSIDAD](Intuiciones/Diversidad.md)
 
-> [!resumen]
-> La construcción de nuestra comunicación no puede pensarse des-politizadamente. La política es la ciencia de la construcción colectiva, y crear comunicación requiere indisolublemente un accionar colectivo y deseablemente de construcción del común. Por ello nuestra comunicación y las herramientas que creemos para realizar van a estar sostenidas desde los ejes socio-politicos que decidamos, y que incluso su *no elección* será también una decisión política.
-> 
-> Llamamos EJES SOCIO-POLÍTICOS a la necesidad de pensar y actuar desde el [[Feminismo]], lo [[Decolonial]], la [[Clase]] y la [[Diversidad]] entre otras.
+![](Intuiciones/Diversidad.md#^cd86ba)
+
+[Indagar sobre la Diversidad](Intuiciones/Diversidad.md)
 
 ***
 
