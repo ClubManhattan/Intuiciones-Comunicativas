@@ -1,3 +1,6 @@
+---
+Modificada: 17-05-2024 - 11:06
+---
 #autonomia/logicas 
 
 La lógica de archivar tiene que ver con guardar, con mantener aquello que nos es valioso pero además poder encontrarlo fácilmente.
@@ -22,3 +25,10 @@ Intento dejar esbozadas algunas:
 ### Organizaciones
 
 - Archive.org: fundación dedicada a archivar la WEB.
+
+
+### perspectiva filosófica 
+
+¿Para qué archivamos? ¿Qué siente un archivo? ¿Qué sentido de existencia tiene?
+Ante la terrible certitud del fin de nuestra existencia, qué valor, profundidad y sentido tiene archivar.
+

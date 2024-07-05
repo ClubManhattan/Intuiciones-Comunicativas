@@ -127,3 +127,8 @@
 .graph-view.color-line-highlight {color: red !important;}
 .graph-view.color-fill-unresolved {color: red !important;}
 */
+
+.cm-list-1 {
+	font-weight: bold;
+	color:#f7c77f !important;
+}

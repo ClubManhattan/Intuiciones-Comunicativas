@@ -1,7 +1,8 @@
+
 > [!mapa intuicional]
 > **Forma parte de:** #materialidad/organizaciones 
-> **Intuiciones relacionadas:** [[Low-tech]]
-> **Etiquetas:** #low-tech
+> **Intuiciones relacionadas:** [[Low-tech]] [Solarpunk](Solarpunk.md)
+> **Etiquetas:** #low-tech 
 > **URL:** https://solar.lowtechmagazine.com/
 
 Web muy interesante sobre el low-tech.

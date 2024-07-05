@@ -1,5 +1,5 @@
 ---
-Fecha: 2023-10-31 - 23:49
+Creada: 2023-10-31 - 23:49
 tags: 
 url: https://glosario.pikaramagazine.com/inicio.php?lg=es&sec=inicio
 ---

@@ -4,7 +4,7 @@ aliases: pubpub.org
 > [!mapa intuicional]
 > **Forma parte de:** #autonomia/herramientas 
 > **Intuiciones relacionadas:** [Jardín digital](Jardín%20digital.md) 
-> **Etiquetas:** #jardindigital 
+> **Etiquetas:** #jardinesdigitales 
 > **URL:** https://pubpub.org
 
 

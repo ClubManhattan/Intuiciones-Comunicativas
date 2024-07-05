@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUTONOMÍA COMUNICATIVA/Herramientas AC/Gestión personal del conocimiento - PKM.md",
+                "file": "AUTONOMÍA/Cuestiones autonomía/Efecto de red.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resona",
+                "query": "tag:#utonomia/cuestiones",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUTONOMÍA COMUNICATIVA/Herramientas AC/Gestión personal del conocimiento - PKM.md",
+                "file": "AUTONOMÍA/Cuestiones autonomía/Efecto de red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUTONOMÍA COMUNICATIVA/Herramientas AC/Gestión personal del conocimiento - PKM.md",
+                "file": "AUTONOMÍA/Cuestiones autonomía/Efecto de red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUTONOMÍA COMUNICATIVA/Herramientas AC/Gestión personal del conocimiento - PKM.md"
+                "file": "AUTONOMÍA/Cuestiones autonomía/Efecto de red.md"
               }
             }
           },
@@ -160,7 +161,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -174,11 +177,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "publish:Publicar cambios": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir el importador de Markdown": false,
@@ -191,37 +194,39 @@
   },
   "active": "44c1f181d64d7bdf",
   "lastOpenFiles": [
+    "00_ARCHIVOS/Recording 20240524114501.webm",
+    "AUTONOMÍA/Cuestiones autonomía/Efecto red (conflicted copy 2024-05-24 132455).md",
+    "Autonomía.md",
+    "AUTONOMÍA/Cuestiones autonomía/Efecto de red.md",
+    "AUTONOMÍA/Herramientas autonomía/Cuentas de correo alternativas y seguras.md",
+    "AUTONOMÍA/Cuestiones autonomía/Gestión del tiempo de respuesta o retroalimentación.md",
+    "Materialidad.md",
+    "Jardin Digital.md",
+    "AUTONOMÍA/Cuestiones autonomía/Construir un espacio digital colectivo y abierto.md",
+    "AUTONOMÍA/Cuestiones autonomía/Dónde se guardan mis datos.md",
+    "Cómo escribir una intuición.md",
+    "MATERIALIDAD/Lógicas materialidad/512kb.club.md",
+    "MATERIALIDAD/Herramientas materialidad/Cómo crear un pequeño sistema de energía solar.md",
+    "DIVERSIDAD/Organizaciones diversidad/numun fund.md",
+    "AUTONOMÍA/Lógicas autonomía/File over app.md",
+    "AUTONOMÍA/Lógicas autonomía/Anotación.md",
+    "AUTONOMÍA/Herramientas autonomía/vectorizer.ai.md",
+    "AUTONOMÍA/Herramientas autonomía/informationisbeautiful.net.md",
+    "AUTONOMÍA/Herramientas autonomía/perma.cc.md",
+    "AUTONOMÍA/Herramientas autonomía/learn-anything.xyz.md",
+    "AUTONOMÍA/Herramientas autonomía/ebooksforus.com.md",
+    "AUTONOMÍA/Herramientas autonomía/Pumukit.md",
+    "AUTONOMÍA/Herramientas autonomía/Knightlab.md",
+    "AUTONOMÍA/Herramientas autonomía/codeberg.org.md",
+    "AUTONOMÍA/Herramientas autonomía/Forgejo.org.md",
+    "AUTONOMÍA/Herramientas autonomía/Design Toolkit de la UOC.md",
+    "00_ARCHIVOS/Pasted image 20240402230701.png",
     "00_ARCHIVOS/low-tech-magazine-100.png",
     "00_ARCHIVOS/low-tech-magazine-70.png",
-    "AUTONOMÍA COMUNICATIVA/Herramientas AC/Gestión personal del conocimiento - PKM.md",
-    "AUTONOMÍA COMUNICATIVA/Herramientas AC/wiki.c2.com.md",
-    "AUTONOMÍA COMUNICATIVA/Lógicas AC/Zettelkasten.md",
-    "AUTONOMÍA COMUNICATIVA/Herramientas AC/Sin título.md",
-    "EJES SOCIOPOLÍTICOS/Herramientas ES/Moneda Libre.md",
-    "ACCIÓN MEDIOAMBIENTAL/Organizaciones AM/Moneda Libre.md",
-    "ACCIÓN MEDIOAMBIENTAL/Organizaciones AM/Sin título.md",
     "00_ARCHIVOS/Captura de pantalla de 2023-11-10 18-39-01.png",
     "ACCIÓN MEDIOAMBIENTAL/Organizaciones AM/Captura de pantalla de 2023-11-10 18-39-01.png",
-    "INTUICIONES COMUNICATIVAS.md",
-    "EJES SOCIOPOLÍTICOS/Organizaciones ES/CyberHippieTotalism.md",
-    "Solarpunk.md",
-    "ACCIÓN MEDIOAMBIENTAL/Herramientas AM/Dear Alice.md",
-    "README.md",
-    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Badge.md",
-    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Retroalimentación de criterio formador.md",
-    "Autonomía Comunicativa.md",
-    "AUTONOMÍA COMUNICATIVA/Cuestiones AC/Saber quién guarda mi información.md",
-    "AUTONOMÍA COMUNICATIVA/Cuestiones AC/Dónde se guardan mis datos.md",
-    "ACCIÓN MEDIOAMBIENTAL/Organizaciones AM/Low-tech Magazine.md",
     "00_ARCHIVOS/Captura de pantalla de 2023-11-10 15-28-31.png",
     "00_ARCHIVOS/navegar-mejor.jpeg",
-    "AUTONOMÍA COMUNICATIVA/Lógicas AC/Tecnodiversidad.md",
-    "SOBRE INTUICIONES COMUNICATIVAS.md",
-    "Acción Medioambiental.md",
-    "Ejes Socio-Políticos.md",
-    "EJES SOCIOPOLÍTICOS/Lógicas ES/Diversidad.md",
-    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Qué tiempo tienes para cuidar tu web que no salga de tu \"tiempo libre\".md",
-    "EJES SOCIOPOLÍTICOS/Cuestiones ES/Puedes hacerlo por tu cuenta, pero mejor si estás en compañía..md",
     "AUTONOMÍA COMUNICATIVA/Cuestiones AC/Screenshot 2023-10-23 at 10-10-38 Not working on Siteground servers.png",
     "ACCIÓN MEDIOAMBIENTAL/Herramientas AM/techcartographies_Sept_2023_EN.pdf",
     "00_ARCHIVOS/intuiciones-comunicativas.png",
@@ -235,8 +240,6 @@
     "docs/EJES SOCIOPOLÍTICOS/Herramientas",
     "docs/ACCIÓN MEDIOAMBIENTAL/Manifiestos-Textos",
     "docs/ACCIÓN MEDIOAMBIENTAL/Organizaciones",
-    "2021-11-22-22-49-26.png",
-    "Plantillas/files/updatable/routeicon-fr-paris-RATPBusMontmartrobus-24@2x.png",
     "Canvas/Jardines Digitales - Concepto, principios y estructura.canvas",
     "Canvas/Sin título.canvas",
     "Sin título.canvas",

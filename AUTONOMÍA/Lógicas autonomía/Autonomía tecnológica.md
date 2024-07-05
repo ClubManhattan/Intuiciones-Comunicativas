@@ -1,9 +1,15 @@
-> [!mapa intuicional]
-> **Forma parte de:** #autonomia/logicas 
-> **Intuiciones relacionadas:** [[colectivodisonancia.net]]
-
-
-Encontrado en el blog de [[colectivodisonancia.net]]
+---
+aliases:
+  - autonomía tecnológica
+Creada: 26-02-2024 - 14:56
+tags:
+  - autonomia/logicas
+relacion:
+  - "[[colectivodisonancia.net]]"
+URL: https://colectivodisonancia.net
+---
+ 
+ Encontrado en el blog de [[colectivodisonancia.net]]
 
 https://colectivodisonancia.net/autonomia/
 

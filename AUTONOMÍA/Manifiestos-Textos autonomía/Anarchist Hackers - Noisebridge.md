@@ -1,8 +1,8 @@
 ---
-Fecha: 2023-09-05 - 23:37
+Creada: 2023-09-05 - 23:37
 tags:
   - historia
-  - hacking
+  - hack/hacking
   - manifiestos
 url: https://www.noisebridge.net/wiki/Anarchist_Hackers
 ---

@@ -1,13 +1,9 @@
 ---
-Fecha: 2023-09-01 - 19:53
+Creada: 2023-09-01 - 19:53
 tags: []
 url: https://commonplace.knowledgefutures.org/
 ---
 #autonomia/herramientas 
-
-> [!web]
-> https://commonplace.knowledgefutures.org/
-
 
 > [!abstract]
 > Movement toward knowledge sharing futures and the cultures that sustain them

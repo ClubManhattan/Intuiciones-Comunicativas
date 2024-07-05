@@ -2,6 +2,7 @@
 > **Forma parte de:** #materialidad/herramientas 
 > **Intuiciones relacionadas:** [[Intuiciones/Materialidad]], [[Solarpunk]]
 
+
 https://yewtu.be/watch?v=z-Ng5ZvrDm4
 
 

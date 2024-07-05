@@ -1,6 +1,8 @@
 ---
-aliases: Autonomía comunicativa
---- 
+Modificada: 05-07-2024 - 15:00
+aliases:
+  - Autonomía comunicativa
+---
 
 > [!Intuiciones]
 > [[INTUICIONES COMUNICATIVAS]]
@@ -13,15 +15,25 @@ aliases: Autonomía comunicativa
 > Necesitamos poder construir nuestra propia comunicación, con nuestros medios, para nuestros fines. El pleno ejercicio de una comunicación libre, colaborativa y abierta es un derecho fundamental que debemos ejercer para ponerlo al servicio de las libertades individuales y colectivas. La autonomía comunicativa sólo es posible cuando conocemos las estructuras que nos impiden ejercer este derecho y además conocemos las herramientas conceptuales, filosóficas, éticas, activistas y prácticas que nos ayudarán en su desarrollo pleno.
 > 
 >  Llamamos AUTONOMÍA a la necesidad de pensarnos desde la [[Construcción del mensaje]], el [[Software libre]], la [[Cultura Libre]], el [[Archivo]], la [[Indieweb]], el [[Fediverso]] y los [[Formatos abiertos]] entre otros.
-
 ^11cebf
 
-
-Otra forma, un poco más rebuscada de entenderlo, sería considerar a la **autonomía comunicativa** como la necesaria independencia y autonomía de elementos tanto internos como externos para poder realizar libremente un ejercicio de la comunicación y sus derechos asociados de forma plena.
+Otra forma, un poco más rebuscada de entenderlo, sería considerar a la **autonomía comunicativa** como:
+> La necesaria independencia y autonomía de elementos tanto internos como externos para poder realizar libremente un ejercicio de la comunicación y sus derechos asociados de forma plena.
 
 ### CUESTIONES
 En **Cuestiones** nos planteamos una serie de preguntas, a modo de recorrido, que tal vez ya te hayas hecho, o te sorprendan por su simpleza y contundencia.
 Queremos plantear un hilo de cuestiones que nos permitan acompañarte en el proceso de discusión y toma de postura.
+Ver todas las #autonomia/cuestiones 
+
+
+```dataview
+LIST
+FROM #autonomia/cuestiones  
+WHERE file.name !="Autonomía"
+SORT file.name ASC
+```
+
+
 
 > [!Cuestion]- Sobre el servidor y donde guardo mis datos 
 > Algo muy importante al plantearnos tener un espacio digital es saber [dónde se guardan mis datos](Dónde%20se%20guardan%20mis%20datos.md) y ello va aparejado con saber además [quién guarda mi información](Saber%20quién%20guarda%20mi%20información.md). En ese proceso deberíamos saber (y preguntar sino) si cuenta con una [comunidad que apoye](Comunidad%20que%20apoye.md) y [qué tiempo tardan en responderme ya sea desde la organización o la comunidad](Qué%20tiempo%20tardan%20en%20responderme%20ya%20sea%20desde%20la%20organización%20o%20la%20comunidad.md). Y también hay que pensar si donde voy a guardar toda mi información tiene un plan de [sostenibilidad en el tiempo](Sostenibilidad%20en%20el%20tiempo.md) y [cuál es la forma empresarial que tiene quién la ha desarrollado](Cuál%20es%20la%20forma%20empresarial%20que%20tiene%20quién%20la%20ha%20desarrollado.md).
@@ -39,53 +51,66 @@ Queremos plantear un hilo de cuestiones que nos permitan acompañarte en el proc
 >[!Cuestión]- Hacer una web con espíritu
 >Esta cuestión es [la respuesta a un mensaje veraniego](Por%20una%20web%20con%20espíritu.md) para la creación de un espacio propio y lo que motivó la creación de Intuiciones.
 
+
+
+
 ### MANIFIESTOS
 A continuación destacamos algunos manifiestos pero si quieres ver la lista completa haz clic en el enlace: #autonomia/manifiestos 
 
-- [Manifiesto Telekomunista](Manifiesto%20Telekomunista.md)
-- [Anarchist Hackers - Noisebridge](Anarchist%20Hackers%20-%20Noisebridge.md)
-
+```dataview
+LIST
+FROM #autonomia/manifiestos 
+WHERE file.name !="Autonomía"
+SORT file.name ASC
+```
 
 ### TEXTOS
 A continuación destacamos algunos textos pero si quieres ver la lista completa haz clic en el enlace: #autonomia/textos  
 
-- [[Navegar mejor]]
+```dataview
+LIST
+FROM #autonomia/textos  
+WHERE file.name !="Autonomía"
+SORT file.name ASC
+```
 
 ### LÓGICAS
 A continuación destacamos algunas lógicas pero si quieres ver la lista completa haz clic en el enlace: #autonomia/logicas 
 
-- [[Construcción del mensaje]]
-- [[Archivo]]
-- [[Cultura Libre]]
-- [[Código abierto]]
-- [[Protocolos abiertos]]
-- [[Archivo]]
-- [[Software libre]]
-- [[Fediverso]]
-- [Jardín digital](Jardín%20digital.md)
+```dataview
+LIST
+FROM #autonomia/logicas 
+WHERE file.name !="Autonomía"
+SORT file.name ASC
+```
 
 ### ORGANIZACIONES
 A continuación destacamos algunas organizaciones pero si quieres ver la lista completa haz clic en el enlace: #autonomia/organizaciones  
 
-
-- [Ártica Online](Ártica%20Online.md): organización de Uruguay destacada por su rabajo en Cultura Libre.
-- [Indieweb](Indieweb.md)
-- [X-Net](X-Net.md)
-- [Colectivo Disonancia](colectivodisonancia.net.md)
+```dataview
+LIST
+FROM #autonomia/organizaciones  
+WHERE file.name !="Autonomía"
+SORT file.name ASC
+```
 
 ### HERRAMIENTAS
 A continuación destacamos algunas herramientas pero si quieres ver la lista completa haz clic en el enlace: #autonomia/herramientas  
 
-- [[ActivityPub]]
-- [[RSS]]
-- [Anartist](anartist.org.md)
-- [[Hypothesis]]
-- [PubPub](PubPub.md)
+```dataview
+LIST
+FROM #autonomia/herramientas  
+WHERE file.name !="Autonomía"
+SORT file.name ASC
+```
+
 
 #### Servidores/as
 #autonomia/herramientas/servidores 
 
-- [[Greenhost]]
-- [[Maadix]]
-- [[Hetzner]]
-
+```dataview
+LIST
+FROM #autonomia/herramientas/servidores 
+WHERE file.name !="Autonomía"
+SORT file.name ASC
+```

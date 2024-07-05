@@ -53,7 +53,11 @@ desde la ***Autonomía***
 
 ---
 
-Un **HACER** en el sentido más amplio de participar en los asuntos que nos afectan como comunidad
+Un **HACER** en el sentido más amplio de **participar** en los asuntos que nos afectan como comunidad
+
+---
+
+![](hacemos-hipotesis-cibernetica.jpg)
 
 ---
 
@@ -62,7 +66,7 @@ desde la ***Materialidad***
 
 ---
 
-Un **SENTIR** como elemento clave para relacionarnos con la realidad que habitamos
+Un **SENTIR** como elemento clave para **relacionarnos** con la realidad que habitamos
 
 ---
 
@@ -71,7 +75,7 @@ desde la ***Diversidad***
 
 ---
 
-Un **PENSAR** como herramienta necesaria para explicar nuestra realidad.
+Un **PENSAR** como herramienta necesaria para **explicar** nuestra realidad.
 
 ---
 
@@ -166,7 +170,7 @@ El límite es **NUESTRA PIEL**
 ---
 
 
-**"La arquitectura debe ser un puente entre el ser humano y la naturaleza, creando espacios que nos conecten con nuestra esencia más profunda."**
+"La arquitectura debe ser un puente entre el ser humano y la naturaleza, **creando espacios que nos conecten con nuestra esencia más profunda."**
 
 *Antoni Gaudí*
 
@@ -179,12 +183,20 @@ El límite es **NUESTRA PIEL**
 Tal vez la comunicación no tiene tanto que ver con la naturaleza para conectarnos con nuestra esencia más profunda.
 
 ---
-
-![](philosophy-meme.jpeg)
+![](philosophy-meme-1.jpeg)
 
 ---
 
-Tal vez tiene que ver la capacidad que tengamos de ejercerla sostenible, ética y autónomamente para poder dejarnos afectar en nuestra piel, en nuestro ser, en nuestro hacer y pensar. 
+![](philosophy-meme-2.jpeg)
+
+---
+
+![](philosophy-meme-3.jpeg)
+
+
+---
+
+Tal vez tiene que ver **la capacidad que tengamos de ejercerla sostenible, ética y autónomamente** para poder dejarnos afectar en nuestra piel, en nuestro **ser**, en nuestro **hacer** y **pensar**. 
 
 ---
 
@@ -198,3 +210,8 @@ Para ello también, necesitamos indagar a través de:
 - Manifiestos
 - Textos
 - Organizaciones
+- ...
+
+---
+
+**intuiciones.clubmanhattan.rocks**

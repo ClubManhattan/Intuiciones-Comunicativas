@@ -1,6 +1,12 @@
+---
+Modificada: 2024-05-24 - 12:55
+---
 
 > [!Attention]
 > Esta nota está creada en base al camino que desea recorrer Ernesto, y aquí van nuestras Intuiciones. Lo escribimos tal cual nos ha contado, de forma que queda como registro vivo de la propia conversación con nuestras respuestas a modo de notas para que pueda recorrer el camino que proponemos:
+
+> [!Primero de todo]
+> Si vamos a construir nuestra web hay una consideración muy importante a tener en cuenta que interesa leer lo primero de todo: [[El primerísimo paso para hacer una web]]
 
 #### Aún no tengo total claridad en lo que quiero. Estoy iniciado en seguridad digital y politización tecnológica. Siempre acompañado y aprendiendo a poner en valor la importancia social y política de las herramientas digitales está asumida.
 
@@ -8,6 +14,7 @@
 > [!Comentario]
 > Está fabuloso saberse acompañado porque ya sabemos que [[Puedes hacerlo por tu cuenta, pero mejor si estás en compañía]].
 > Y sin duda hay una [[tecnopolítica de las herramientas]] que es clave entender, y que ya tienes asumido.
+> Y mientras que se tiene o no claridad hay una serie de [[Consejos básicos mientras que decides cómo hacer tu espacio digital]].
 
 #### Mi deseo es tener un espacio soberano, privado, sostenible, políticamente acorde.
 

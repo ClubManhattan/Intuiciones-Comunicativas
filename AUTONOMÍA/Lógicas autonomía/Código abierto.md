@@ -1,4 +1,12 @@
-#autonomia/logicas 
+---
+aliases: 
+--- 
+> [!mapa intuicional]
+> **Forma parte de:** #autonomia/logicas 
+> **Intuiciones relacionadas:** [Software libre](Software%20libre.md)
+> **Etiquetas:** #
+> **URL:** 
+
 
 [Wikipedia](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto):
 

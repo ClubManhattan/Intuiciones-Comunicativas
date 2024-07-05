@@ -1,5 +1,5 @@
 ---
-Fecha: 2023-10-19 - 08:29
+Creada: 2023-10-19 - 08:29
 tags: 
 url: "[[Autonomía]]"
 aliases:

@@ -1,13 +1,11 @@
 ---
-Fecha: 2023-10-19 - 02:47
-tags:
-  - protocolo
-url:
----
+aliases: 
+--- 
 > [!mapa intuicional]
 > **Forma parte de:** #autonomia/herramientas 
-> **Intuiciones relacionadas:** [[Autonomía]]
+> **Intuiciones relacionadas:** [Protocolos abiertos](Protocolos%20abiertos.md)
+> **Etiquetas:** #
+> **URL:** 
 
-> [!abstract]
-> El protocolo abierto para federación más conocido a día de hoy
 
+Entrevista a Matthias Pfefferle: https://wptavern.com/podcast/99-matthias-pfefferle-on-activitypub-wordpress-and-decentralised-social-networks

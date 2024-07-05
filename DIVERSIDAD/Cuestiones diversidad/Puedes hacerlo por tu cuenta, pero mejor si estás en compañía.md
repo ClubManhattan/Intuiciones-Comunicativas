@@ -1,6 +1,14 @@
 ---
-aliases: Co-creación
---- 
+Modificada: 02-04-2024 - 12:42
+aliases:
+  - Co-creación
+tags:
+  - autonomia/cuestiones
+Creada: 26-06-2024 - 19:37
+relacion: 
+URL:
+---
+
 > [!mapa intuicional]
 > **Forma parte de:** #autonomia/cuestiones 
 > **Intuiciones relacionadas:** 
@@ -24,4 +32,4 @@ Es por esta misma razón que aunque puedas hacerlo tú sólo/a es mejor que inte
 	- no conozco mucho esta plataforma pero me han hablado mucho de ella y bastante bien. Hay quedadas de amantes de [WordPress](WordPress.md) y casi de cualquier código, plataforma o idea. Echa un ojo a ver qué cositas hay.
 
 - **[[Github]]**:
-		- en esta red puedes subir tu página como código abierto y aprender con otros a cómo mejorarla. No es fácil, tienes que hacer igual tu camino ahí, crear tu red de contactos y demás. Debes tener además algunos conocimientos un poco avanzados de código, aunque sean poquitos pero algo.
+	- en esta red puedes subir tu página como código abierto y aprender con otros a cómo mejorarla. No es fácil, tienes que hacer igual tu camino ahí, crear tu red de contactos y demás. Debes tener además algunos conocimientos un poco avanzados de código, aunque sean poquitos pero algo.

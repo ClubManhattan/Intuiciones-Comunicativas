@@ -1,10 +1,18 @@
 ---
-aliases: La importancia de la comunidad, Cuenta con comunidad que apoye
---- 
-> [!mapa intuicional]
+aliases:
+  - La importancia de la comunidad
+  - Cuenta con comunidad que apoye
+Creada: 02-04-2024 - 02:46
+Modificada: 02-04-2024 - 02:48
+tags: 
+relacion: 
+URL:
+---
+
+ > [!mapa intuicional]
 > **Forma parte de:** #
 > **Intuiciones relacionadas:** 
-> **Etiquetas:** #
+> **Etiquetas:** 
 > **URL:** 
 
 
@@ -18,3 +26,7 @@ https://wordpress.org/support/topic/not-working-on-siteground-servers/#post-1714
 
 ==(Para ver la imagen en grande > Colocarse sobre la imagen > Botón derecho > Abrir imagen en una pestaña nueva)==
 ![](conversacion-activitypub.png)
+
+
+
+![](Screenshot%202024-03-30%20at%2003-50-50%20Why%20my%20reply%20doesn’t%20appear%20on%20Mastodon.png)

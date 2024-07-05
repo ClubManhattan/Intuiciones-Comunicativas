@@ -1,20 +1,11 @@
 ---
-aliases:
-  - Moneda Libre
----
+aliases: Moneda Libre
+--- 
 > [!mapa intuicional]
 > **Forma parte de:** #diversidad/herramientas 
 > **Intuiciones relacionadas:** [[economía alternativa]], [anartist.org](anartist.org.md)
 > **Etiquetas:** #economia
 > **URL:** https://moneda-libre.org/
-
-```
----
-aliases:
-  - Moneda Libre
-  - Economía alternativa
----
-```
 
 
 

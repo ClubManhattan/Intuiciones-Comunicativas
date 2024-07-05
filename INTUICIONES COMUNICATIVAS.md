@@ -2,10 +2,11 @@
 aliases:
   - Intuiciones para una comunicación digital libre
   - Sobre intuiciones comunicativas
+Modificada: 11-06-2024 - 23:08
 ---
-#### Nuestras intuiciones comunicativas son aquellas en las que creemos que hay que pensar, sentir y accionar a la hora de emprender el viaje de tener tus propias herramientas comunicativas.
-![[intuiciones-comunicativas.png]]
 
+#### Nuestras intuiciones comunicativas son aquellas en las que creemos que hay que pensar, sentir y accionar a la hora de emprender el viaje de tener tus propias herramientas comunicativas.
+![](Pasted%20image%2020240402230701.png)
 Lo llamamos **Intuiciones** porque no tenemos muy claro que estemos haciendo algo que vaya a poder *cerrarse* algún día; ya sea como idea o cómo concepto, libro o guía.
 
 #### Cómo leer ESTAS INTUICIONES
@@ -15,10 +16,8 @@ Puedes empezar a navegar desde aquí deambulando entre las temáticas, archivos 
 
 Ya sea de forma inductiva (leyendo las notas, textos, artículos,...) para llegar de lo específico a plantear tus ideas generales; o deductivo, analizando los principios y conceptos generales para crearte tu propio corpus de teoría-acción, creemos que **Intuiciones comunicativas** puede ser de utilidad para todas aquellas personas hastiadas del badulaque ruidoso en el que se ha convertido Internet pero cree y quiere poder darle una nueva mirada. Sobre todo para aquellas personas con ganas de construirse un [Jardin Digital](Jardin%20Digital.md).
 
-***
 
 ## Áreas Intuicionales
-
 Hemos identificado **tres áreas** (o aristas, o vectores) desde las que vemos que cualquier persona - en la contemporaneidad actual - puede **empezar a preguntarse** algunas cuestiones básicas para la creación de tecnología digital o analógica.
 
 Esas **preguntas llevan a respuestas** en forma de **textos, manifiestos, lógicas, organizaciones y herramientas**.
@@ -29,6 +28,7 @@ Por ello, queremos ser incisivos en nuestro leit motiv: crear una **guía de pur
 
 Todo está hecho con mera pasión por compartir conocimiento, no establecer vías unívocas de pensamiento o acción.
 
+
 ### [Autonomía](Autonomía.md)
  ![](Autonomía.md#^11cebf)
 [Indagar sobre Autonomía](Autonomía.md)
@@ -36,7 +36,7 @@ Todo está hecho con mera pasión por compartir conocimiento, no establecer vía
 ***
 ### [Materialidad](Intuiciones/Materialidad.md)
 
-![](Intuiciones/Materialidad.md#^68eb08)
+![](Materialidad.md#^68eb08)
 
 [Indagar sobre Materialidad](Intuiciones/Materialidad.md)
 
@@ -66,3 +66,8 @@ Tal vez te preguntes [[Por qué usamos Obsidian]]
 
 Si quieres algo más de info dinos a:
 [vip@clubmanhattan.rocks](mailto:vip@clubmanhattan.rocks)
+
+
+#### Archivo de capturas de vista gráfica
+
+![[intuiciones-comunicativas.png]]
