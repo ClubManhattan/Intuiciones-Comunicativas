@@ -2,9 +2,8 @@
 aliases:
   - Intuiciones para una comunicación digital libre
   - Sobre intuiciones comunicativas
-Modificada: 11-06-2024 - 23:08
+Modificada: 08-10-2024 - 22:33
 ---
-
 #### Nuestras intuiciones comunicativas son aquellas en las que creemos que hay que pensar, sentir y accionar a la hora de emprender el viaje de tener tus propias herramientas comunicativas.
 ![](Pasted%20image%2020240402230701.png)
 Lo llamamos **Intuiciones** porque no tenemos muy claro que estemos haciendo algo que vaya a poder *cerrarse* algún día; ya sea como idea o cómo concepto, libro o guía.

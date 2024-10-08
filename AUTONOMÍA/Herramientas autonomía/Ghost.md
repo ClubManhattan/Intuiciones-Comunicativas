@@ -4,7 +4,7 @@ aliases:
 > [!mapa intuicional]
 > **Forma parte de:** #autonomia/herramientas 
 > **Intuiciones relacionadas:** 
-> **Etiquetas:** #codigoabierto
+> **Etiquetas:** #codigo/abierto
 > **URL:** https://ghost.org/
 
 Github: https://github.com/TryGhost/Ghost

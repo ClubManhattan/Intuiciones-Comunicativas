@@ -1,11 +1,12 @@
 ---
-aliases: 
+aliases:
+  - Lo-Tech
 Creada: 18-04-2024 - 12:22
-Modificada: 18-04-2024 - 12:23
+Modificada: 17-09-2024 - 14:13
 tags:
   - materialidad/logicas
 relacion: 
-URL:
+URL: 
 ---
 
 > [!mapa intuicional]

@@ -1,5 +1,5 @@
 ---
-Modificada: 05-07-2024 - 15:00
+Modificada: 06-07-2024 - 14:02
 aliases:
   - Autonomía comunicativa
 ---
@@ -18,6 +18,7 @@ aliases:
 ^11cebf
 
 Otra forma, un poco más rebuscada de entenderlo, sería considerar a la **autonomía comunicativa** como:
+
 > La necesaria independencia y autonomía de elementos tanto internos como externos para poder realizar libremente un ejercicio de la comunicación y sus derechos asociados de forma plena.
 
 ### CUESTIONES

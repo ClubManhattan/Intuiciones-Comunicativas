@@ -8,7 +8,7 @@ aliases:
 > **URL:** 
 
 Ver herramientas de OSINT en:
-[[Cyber Detective's OSINT tools collection]]
+[[Cyber Detectives OSINT tools collection]]
 
 
 En LATAM y Caribe organizaciones como:

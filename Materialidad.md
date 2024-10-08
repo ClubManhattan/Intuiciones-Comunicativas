@@ -33,11 +33,10 @@ A continuación destacamos algunos manifiestos pero si quieres ver la lista comp
 ### TEXTOS
 A continuación destacamos algunos textos pero si quieres ver la lista completa haz clic en el enlace: #materialidad/textos 
 - [[ChatGPT bebe medio litro de agua]]
-- 
 
 ### LÓGICAS
 A continuación destacamos algunas lógicas pero si quieres ver la lista completa haz clic en el enlace: #materialidad/logicas
- - [[Lo-Tech]]
+ - [[Low-tech|Lo-Tech]]
  - [[Materialidad de Internet]]
 
 ### ORGANIZACIONES

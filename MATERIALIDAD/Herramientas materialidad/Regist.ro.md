@@ -1,8 +1,22 @@
+---
+aliases:
+  - "#regist.ro"
+Creada: 03-10-2024 - 23:00
+Modificada: 03-10-2024 - 23:01
+tags:
+  - materialidad/herramientas
+relacion: 
+URL:
+  - https://regist.ro/
+---
+ 
 > [!mapa intuicional]
 > **Forma parte de:** #materialidad/herramientas 
 > **Intuiciones relacionadas:** [[IMVEC.TECH]], [[Marcadores Escuela Audiovisual Regist.ro]]
+> **Etiquetas:** #
+> **URL:** https://regist.ro/
 
-**Web:** https://regist.ro/
+
 
 **Regist.ro es un conjunto de manuales, métodos y herramientas para la investigación vecinal forense de procesos de contaminación del agua.**
 

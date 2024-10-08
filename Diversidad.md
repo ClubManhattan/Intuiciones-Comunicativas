@@ -1,3 +1,6 @@
+---
+Modificada: 20-09-2024 - 11:07
+---
 
 >[!Intuiciones]
 >[[INTUICIONES COMUNICATIVAS]]
@@ -6,7 +9,7 @@
 >2 - [Materialidad](Materialidad.md)
 
 > [!resumen]
-> La construcción de nuestra comunicación no puede pensarse des-politizadamente. La política es la ciencia de la construcción colectiva, y crear comunicación requiere indisolublemente un accionar colectivo y deseablemente de construcción del común. Por ello nuestra comunicación y las herramientas que creemos para realizar van a estar sostenidas desde los ejes socio-politicos que decidamos, y que incluso su *no elección* será también una decisión política.
+> La construcción de nuestra comunicación no puede pensarse des-politizadamente. La política es la ciencia de la construcción colectiva, y crear comunicación requiere indisolublemente un accionar colectivo y deseablemente de construcción del común. Por ello nuestra comunicación y las herramientas que construimos van a estar sostenidas desde los ejes socio-politicos que decidamos, y que incluso su *no elección* será también una decisión política.
 > 
 > Llamamos DIVERSIDAD a la necesidad de pensar y actuar políticamente desde el [[Feminismo]], lo [[Decolonial]] y la [[Clase]] entre otras.
 

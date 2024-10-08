@@ -1,6 +1,7 @@
 ---
 aliases: Archivo sobre app
 --- 
+
 > [!mapa intuicional]
 > **Forma parte de:** #autonomia/logicas 
 > **Intuiciones relacionadas:** [Obsidian](Obsidian.md)
@@ -24,11 +25,3 @@ Paraphrasing something [I wrote recently](https://obsidian.md/blog/new-obsidian-
 You should want the files you create to be durable, not only for posterity, but also for your future self. You never know when you might want to go back to something you created years or decades ago. Don’t lock your data into a format you can’t retrieve.
 
 These days I write using an app I help make called [Obsidian](https://stephango.com/obsidian), but it’s a delusion to think it will last forever. The app will eventually become obsolete. It’s the plain text files I create that are designed to last. Who knows if anyone will want to read them besides me, but _future me_ is enough of an audience to make it worthwhile.---
-aliases: 
---- 
-> [!mapa intuicional]
-> **Forma parte de:** #
-> **Intuiciones relacionadas:** 
-> **Etiquetas:** #
-> **URL:** 
-
